@@ -1,0 +1,15 @@
+import logical
+n=int(input("Enter number:"))
+logical.prime(n)
+logical.perfect(n)
+logical.armstrong(n)
+import pattern
+n=int(input("Enter Rows:"))
+print("Right triangle")
+pattern.righttriangle(n)
+print("leht triangle")
+pattern.lefhttriangle(n)
+print("inverseRight triangle")
+pattern.inverserighttriangle(n)
+print("inverseleft triangle")
+pattern.inverselefttriangle(n)
