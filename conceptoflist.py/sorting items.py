@@ -1,0 +1,9 @@
+a=["a","A","b","C"]
+a.sort()
+print(a)
+a.sort(key=str.lower)
+print(a)
+a.reverse()
+print(a)
+a.sort(reverse=True)
+print(a)

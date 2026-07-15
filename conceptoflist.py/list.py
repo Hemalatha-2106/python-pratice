@@ -1,0 +1,9 @@
+l=[12,"Latha",78.90,True,"hi",13,14]
+print(l[:])
+print(l[2:])
+print(l[:3])
+print(l[1:3])
+print(l[-3:])
+print(l[:-2])
+print(l[2:-1])
+print(l[::-1])
